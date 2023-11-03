@@ -1,0 +1,196 @@
+.la-gran-y-unica-pastafrola {
+    font-weight: bold;
+    color: red;
+}
+
+main {
+    background-image: url("../images/fondo_fondazo.png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.navbar-light {
+    font-family: 'Merienda', cursive;
+}
+
+footer img {
+    margin: 1%;
+}
+
+footer p {
+    font-family: 'Merienda', cursive;
+    display: inline;
+    margin: 1% 1% 1% 3%;
+    color: black;
+}
+
+.container {
+    background-color: lightsalmon;
+    padding-top: 5%;
+}
+
+.h1-grande {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 400%;
+    margin-top: 5%;
+    text-align: center;
+}
+
+.h1-pequenio {
+    font-family: 'Permanent Marker', cursive;
+    font-size: 270%;
+    margin-top: 20%;
+    text-align: center;
+}
+
+#whole-quote {
+    font-family: 'Merienda', cursive;
+    font-size: 200%;
+    margin: 10% 5% 10% 5%;
+}
+
+#quote {
+    text-align: justify;
+}
+
+#mahatma{
+    text-align: right;
+}
+
+.margen-piola {
+    margin: 8%;
+}
+
+.quesla-pastafrola {
+    background-color: rgb(255, 253, 158);
+    padding: 10%;
+}
+
+.quesla-pastafrola h2 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.quesla-pastafrola h3 {
+    font-family: 'Permanent Marker', cursive;
+}
+
+.quesla-pastafrola p {
+    font-family: 'Merienda', cursive;
+}
+
+p a {
+    color: red;
+}
+
+#soldados-grande {
+    width: 100%;
+    margin-top: 10%;
+}
+
+.epigrafe {
+    text-align: center;
+    font-family: 'Merienda', cursive;
+    font-size: 85%;
+}
+
+#mona-lisa-grande {
+    width: 100%;
+    margin-bottom: 10%;
+}
+
+#soldados-pequenio {
+    width: 100%;
+}
+
+#mona-lisa-pequenia {
+    width: 100%;
+}
+
+#la-ultima-cena-grande {
+    width:100%;
+    margin: 10% 0 10% 0;
+}
+
+#la-ultima-cena-pequenia {
+    width: 100%;
+}
+
+.col-9 {
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.col-9 .quesla-pastafrola {
+    padding: 5%;
+}
+
+#ingrediente-secreto-grande {
+    margin: 5% 0 0 0;
+}
+
+#ingrediente-secreto-pequenio {
+    margin: 0 auto 0 auto;
+}
+
+#membrillo-para-compu {
+    padding-bottom: 10%;
+}
+
+#abominacion {
+    display: block;
+    margin: 0 auto 0 auto;
+}
+
+#problemas-membrillo {
+    margin: 0 auto 0 auto;
+}
+
+.como-preparar-la-de-batata {
+    background-color: rgb(255, 253, 158);
+    padding: 4%;
+}
+
+.chiquito-grande {
+    font-size: 70%;
+}
+
+#meme-hank {
+    padding: 10% 5% 10% 5%;
+}
+
+#meme-run {
+    padding: 10% 5% 10% 5%;
+}
+
+#un-nuevo-despertar-large {
+    padding-left: 3%;
+}
+
+#el-resultado-large {
+    padding-right: 3%;
+}
+
+#un-nuevo-despertar-mediano {
+    padding-left: 5%;
+}
+
+#el-resultado-mediano {
+    padding-right: 5%;
+}
+
+#como-se-hace-mediano {
+    padding: 0 5% 0 5%;
+    margin-top: 5%;
+}
+
+#un-nuevo-despertar-pequenio, #el-resultado-pequenio {
+    padding: 0;
+}
+
+#como-se-hace-pequenio {
+    padding-top: 5%;
+}
+
+h2, h3 { /* A tiempos dificiles, medidas desesperadas ~Sigmund Freud */
+    font-size: 150%;
+}
